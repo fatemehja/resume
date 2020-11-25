@@ -1,0 +1,18 @@
+.cards-wrapper {
+    display: felx;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .card {
+      margin: 0px;
+      background-color: whitesmoke;
+  }
+
+  .image-wrapper {
+    margin: 0px;
+  }
+
+  .skill-title-wrapper{
+    margin: 0px;
+  }

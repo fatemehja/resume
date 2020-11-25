@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Architects Daughter', serif, Georgia, Times, 'Times New Roman';
+    font-size: 6vh;
+}
+
+h2 {
+    font-size: 4vh;
+}
+
+.icon {
+    margin: 1vw;
+    margin-top : 6vh;
+}
+  
+.icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

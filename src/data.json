@@ -1,0 +1,39 @@
+{
+    "title": "Hello, I'm Fatemeh Jabbari! :)",
+    "subtitle": "Java Senior (J2EE, Spring) Full-stack Developer",
+    "links": {
+        "github": "https://github.com/fatemehja",
+        "linkedin": "https://www.linkedin.com/in/fatemeh-jabbari-b5318591"
+    },
+    "aboutSection": {
+        "title": "About",
+        "items": [
+            {
+                "type": "p",
+                "content": "This is Fatemeh Jabbari"
+            }
+        ]
+    },
+    "skillsSection": {
+        "title": "Skills",
+        "items": [
+            {
+                "type": "card",
+                "content": {
+                    "image": "images/javaLogo.png",
+                    "title": "Java (Core, J2EE, Spring)"
+                }
+            },
+            {
+                "type": "card",
+                "content": {
+                    "image": "images/reactLogo.png",
+                    "title": "React, JavaScript, HTML, CSS"
+                }
+            }
+        ]
+    },
+    "icons": {
+        "down": "images/icons/down.svg"
+    }
+}
